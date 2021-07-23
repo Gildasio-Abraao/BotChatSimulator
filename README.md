@@ -8,4 +8,4 @@
 # chat
 # HTML, CSS & JS
 // Front End of a chat bot simulator
-// Code is very clean and commented
+// Clean Code and commented
